@@ -97,9 +97,11 @@
 </a>
 </p>
 
+<!--
 <p align="center">
   <img width="845" alt="Github Stats" src="https://github-readme-stats-itiki.vercel.app/api?username=iTanken&count_private=true&show_icons=true&theme=nord&locale=cn&title_color=88C0D0&text_color=D8DEE9&20231212"/>
 </p>
+-->
 <p align="center">
   <img width="845" alt="WakaTime Stats top-langs" src="https://github-readme-stats-itiki.vercel.app/api/wakatime?username=iTanken&layout=compact&display_format=percent&langs_count=12&hide=json,xml,toml,yaml,nsis,text,other,go.mod&custom_title=%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80&theme=nord&locale=cn&title_color=88C0D0" />
 </p>

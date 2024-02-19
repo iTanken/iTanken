@@ -3,8 +3,8 @@
 <p align="center">
   <a target="_blank" href="https://github.com/iTanken">
     <img alt="访问计数" title="Profile views" src="https://komarev.com/ghpvc/?username=itanken&label=profile%20views%20&color=3fb950&style=for-the-badge" /></a>
-  <a href="https://github.com/sponsors/iTanken">
-    <img alt="Github Sponsors" src="https://img.shields.io/github/sponsors/iTanken?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsors" /></a>
+  <a href="https://afdian.net/a/iTanken">
+    <img alt="Sponsors" src="https://img.shields.io/github/sponsors/iTanken?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=%E7%88%B1%E5%8F%91%E7%94%B5" /></a>
 </p>
 
 <p align="center">

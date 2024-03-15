@@ -111,9 +111,11 @@
   <img width="420" alt="Top Languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iTanken&theme=nord_dark" />
 </p>
 
+<!--
 <p align="center">
 <img width="845" alt="GitHub Profile Trophy 🏆" src="https://github-profile-trophy.vercel.app/?username=iTanken&theme=nord&row=2&column=3&margin-w=32&margin-h=32"/>
 </p>
+-->
 
 <p align="center">
   <img width="845" alt="iTanken's Contributions" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTanken&theme=nord_dark" />

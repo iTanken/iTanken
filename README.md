@@ -106,12 +106,12 @@
   <img width="845" alt="WakaTime Stats top-langs" src="https://github-readme-stats-itiki.vercel.app/api/wakatime?username=iTanken&layout=compact&display_format=percent&langs_count=12&hide=json,xml,toml,yaml,nsis,text,other,go.mod&custom_title=%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80&theme=nord&locale=cn&title_color=88C0D0" />
 </p>
 
+<!--
 <p align="center">
   <img width="420" alt="Top Languages by Commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTanken&theme=nord_dark" />
   <img width="420" alt="Top Languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iTanken&theme=nord_dark" />
 </p>
 
-<!--
 <p align="center">
 <img width="845" alt="GitHub Profile Trophy 🏆" src="https://github-profile-trophy.vercel.app/?username=iTanken&theme=nord&row=2&column=3&margin-w=32&margin-h=32"/>
 </p>

@@ -16,8 +16,10 @@
     <img alt="派生计数" title="Total forks on GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/iTanken"/></a>
   <a href="https://wakatime.com/@iTanken">
     <img alt="总编码时间" title="Wakatime coding activity Tracker" src="https://wakatime.com/badge/user/083fb826-e751-40d1-a6e0-14d05df1e605.svg?style=for-the-badge" /></a>
+  <!--
   <a href="https://gitee.com/iTiki">
     <img alt="Gitee" title="Gitee" src="https://img.shields.io/badge/gitee-iTiki-blue?style=for-the-badge&logo=Gitee" /></a>
+  -->
 </p>
 
 <table align="center" width="845">

@@ -1,22 +1,23 @@
 <h1 align="center">𝓗𝓲 👋 𝓘 𝓪𝓶 𝓲𝓣𝓪𝓷𝓴𝓮𝓷</h1>
 
 <p align="center">
+  <a target="_blank" href="https://wakatime.com/@iTanken">
+    <img alt="总编码时间" title="Wakatime coding activity Tracker" src="https://wakatime.com/badge/user/083fb826-e751-40d1-a6e0-14d05df1e605.svg?style=for-the-badge" /></a>
   <a target="_blank" href="https://github.com/iTanken">
     <img alt="访问计数" title="Profile views" src="https://komarev.com/ghpvc/?username=itanken&label=profile%20views%20&color=3fb950&style=for-the-badge" /></a>
-  <a href="https://afdian.net/a/iTanken">
+  <a target="_blank" href="https://afdian.net/a/iTanken">
     <img alt="Sponsors" src="https://img.shields.io/github/sponsors/iTanken?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=%E7%88%B1%E5%8F%91%E7%94%B5" /></a>
 </p>
 
 <p align="center">
+  <!--
   <a href="https://github.com/iTanken?tab=followers">
     <img alt="关注计数" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/iTanken?style=for-the-badge&logo=person-add&label=Followers"/></a>
   <a target="_blank" href="https://github.com/iTanken?tab=stars&sort=stargazers">
     <img alt="星标计数" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/iTanken" /></a>
   <a href="https://github.com/iTanken?tab=followers">
     <img alt="派生计数" title="Total forks on GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/iTanken"/></a>
-  <a href="https://wakatime.com/@iTanken">
-    <img alt="总编码时间" title="Wakatime coding activity Tracker" src="https://wakatime.com/badge/user/083fb826-e751-40d1-a6e0-14d05df1e605.svg?style=for-the-badge" /></a>
-  <!--
+
   <a href="https://gitee.com/iTiki">
     <img alt="Gitee" title="Gitee" src="https://img.shields.io/badge/gitee-iTiki-blue?style=for-the-badge&logo=Gitee" /></a>
   -->
@@ -186,3 +187,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---

@@ -5,8 +5,6 @@
     <img alt="总编码时间" title="Wakatime coding activity Tracker" src="https://wakatime.com/badge/user/083fb826-e751-40d1-a6e0-14d05df1e605.svg?style=for-the-badge" /></a>
   <a target="_blank" href="https://github.com/iTanken">
     <img alt="访问计数" title="Profile views" src="https://komarev.com/ghpvc/?username=itanken&label=profile%20views%20&color=3fb950&style=for-the-badge" /></a>
-  <a target="_blank" href="https://afdian.net/a/iTanken">
-    <img alt="Sponsors" src="https://img.shields.io/github/sponsors/iTanken?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=%E7%88%B1%E5%8F%91%E7%94%B5" /></a>
 </p>
 
 <p align="center">

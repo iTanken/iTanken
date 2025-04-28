@@ -106,7 +106,7 @@
 </p>
 -->
 <p align="center">
-  <img width="845" alt="WakaTime Stats top-languages" src="https://github-readme-stats-itiki.vercel.app/api/wakatime?username=iTanken&layout=compact&display_format=percent&langs_count=12&hide=json,xml,toml,yaml,nsis,text,other,go.mod&custom_title=Most%20Used%20Development%20Languages&theme=nord&locale=cn&title_color=88C0D0" />
+  <img width="845" alt="WakaTime Stats top-languages" src="https://github-readme-stats-itiki.vercel.app/api/wakatime?username=iTanken&layout=compact&display_format=percent&langs_count=12&hide=batch,css,json,xml,toml,yaml,nsis,text,other,go.mod&custom_title=Most%20Used%20Development%20Languages&theme=nord&locale=cn&title_color=88C0D0" />
 </p>
 
 <!--

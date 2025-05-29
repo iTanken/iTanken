@@ -23,50 +23,59 @@
   -->
 </p>
 
+<p align="center">
+  <img width="845" alt="iTanken's Contributions" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTanken&theme=transparent" />
+</p>
+
 <table align="center" width="845">
     <tr>
-        <td align="center" width="122">
+        <td align="center" width="140">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" height="65" />
           <br>Java
         </td>
-        <td align="center" width="122">
+        <td align="center" width="140">
           <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="65" height="65" />
           <br>Kotlin
         </td>
-        <td align="center" width="122">
+        <td align="center" width="140">
           <img src="https://skillicons.dev/icons?i=go" alt="golang" width="65" height="65" />
           <br>Go
         </td>
-        <td align="center" width="122">
-          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
-          <br>Linux
+      <!--
+        <td align="center" width="122"> 
+          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+          <br>Git
         </td>
-        <td align="center" width="122">
+      -->
+        <td align="center" width="140">
           <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
           <br>JavaScript
         </td>
-        <td align="center"  width="122">
+        <td align="center"  width="140">
           <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
           <br>HTML
         </td>
+      <!--
         <td align="center" width="122">
           <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
           <br>CSS
         </td>
-        <td align="center" width="122">
+      -->
+        <td align="center" width="140">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
           <br>Python
         </td>
     </tr>
     <tr>
-        <td align="center" width="122">
+        <td align="center" width="140">
           <img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" alt="PowerShell" />
           <br>PowerShell
         </td>
-        <td align="center" width="122"> 
-          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-          <br>Git
+        <td align="center" width="140">
+          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+          <br>Linux
         </td>
+      <!--
         <td align="center"  width="122">
           <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab" />
           <br>GitLab
@@ -75,19 +84,20 @@
           <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
           <br>GitHub
         </td>
-        <td align="center" width="122">
+      -->
+        <td align="center" width="140">
           <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
           <br>PostgreSQL
         </td>
-        <td align="center" width="122">
+        <td align="center" width="140">
           <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
           <br>MySQL
         </td>
-        <td align="center" width="122">
+        <td align="center" width="140">
           <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="SQLite" />
           <br>SQLite
         </td>
-        <td align="center" width="122">
+        <td align="center" width="140">
           <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="Photoshop" />
           <br>Photoshop
         </td>
@@ -106,7 +116,7 @@
 </p>
 -->
 <p align="center">
-  <img width="845" alt="WakaTime Stats top-languages" src="https://github-readme-stats-itiki.vercel.app/api/wakatime?username=iTanken&layout=compact&display_format=percent&langs_count=12&hide=batch,css,json,xml,toml,yaml,nsis,text,other,go.mod&custom_title=Most%20Used%20Development%20Languages&theme=nord&locale=cn&title_color=88C0D0" />
+  <img width="845" alt="WakaTime Stats top-languages" src="https://github-readme-stats-itiki.vercel.app/api/wakatime?username=iTanken&layout=compact&display_format=percent&langs_count=12&hide=batch,css,json,xml,toml,yaml,nsis,text,other,go.mod&custom_title=Most%20Used%20Development%20Languages&theme=transparent&locale=cn&title_color=88C0D0" />
 </p>
 
 <!--
@@ -119,10 +129,6 @@
 <img width="845" alt="GitHub Profile Trophy 🏆" src="https://github-profile-trophy.vercel.app/?username=iTanken&theme=nord&row=2&column=3&margin-w=32&margin-h=32"/>
 </p>
 -->
-
-<p align="center">
-  <img width="845" alt="iTanken's Contributions" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTanken&theme=nord_dark" />
-</p>
 
 <p align="center">
 
@@ -156,7 +162,8 @@
 <p align="center">
   <!--<img width="845" src="https://raw.githubusercontent.com/iTanken/iTanken/contribution-grid-snake/dark.svg">-->
   <a target="_blank" href="https://wakatime.com/@iTanken">
-  <img width="845" src="https://wakatime.com/share/@iTanken/1d90785b-0d8f-44a8-9cd7-28f4f801e30f.svg">
+    <!-- dark <img width="845" src="https://wakatime.com/share/@iTanken/1d90785b-0d8f-44a8-9cd7-28f4f801e30f.svg"> -->
+  <img width="845" src="https://wakatime.com/share/@iTanken/31ec307e-594f-4716-a531-96733c2440a3.svg">
   </a>
 </p>
 
